@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">JetpackDemoPractice</string>
+    <string name="biometric_login">biometric login</string>
+    <string name="biometric_test">gotoBiometric</string>
+    <string name="login">Login</string>
+    <string name="phone_number">Username</string>
+    <string name="password">Password</string>
+    <string name="secret_key_name">biometric_sample_encryption_key</string>
+</resources>
